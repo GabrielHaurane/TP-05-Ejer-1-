@@ -6,3 +6,6 @@ body{
 main{
     flex-grow: 1;
 }
+#areaJuego {
+    display: none;
+}
